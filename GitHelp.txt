@@ -9,8 +9,13 @@ git remote add origin https://github.com/mr-arzybek/oop-62-2.git
 
 
 
-git status
-git add .
-git commit -m "lesson1"
-git branch
-git push orign master
+git status                | Состояние проекта
+git add .                 | Выделяет все и копирует в буфер обмена
+git commit -m "lesson1"   | Сохраняет все то что мы скопировали
+git branch                | Показывает наши ветки
+git push orign master     | Отправляет все наши сохранения или коммиты
+
+
+git add file_name
+
+git branch name_branch
