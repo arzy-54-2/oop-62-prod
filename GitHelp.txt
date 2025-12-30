@@ -11,3 +11,6 @@ git remote add origin https://github.com/mr-arzybek/oop-62-2.git
 
 git status
 git add .
+git commit -m "lesson1"
+git branch
+git push orign master
