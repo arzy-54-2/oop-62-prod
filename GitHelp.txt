@@ -19,3 +19,22 @@ git push orign master     | Отправляет все наши сохране�
 git add file_name
 
 git branch name_branch
+
+
+
+production
+prod
+
+
+test
+stage
+dev
+
+
+feat/register
+
+
+"feat: register added"
+"update: register updated"
+"fix: register fixed def fsadf"
+"hot-fix: "
