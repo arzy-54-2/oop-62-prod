@@ -7,8 +7,6 @@ git config --global user.email "your-email@example.com"
 git init
 git remote add origin https://github.com/mr-arzybek/oop-62-2.git
 
-
-
 git status                | Состояние проекта
 git add .                 | Выделяет все и копирует в буфер обмена
 git commit -m "lesson1"   | Сохраняет все то что мы скопировали
@@ -47,3 +45,4 @@ feat/register
 "update: register updated"
 "fix: register fixed def fsadf"
 "hot-fix: "
+>>>>>>> main
