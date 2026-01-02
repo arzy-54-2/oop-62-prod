@@ -23,6 +23,8 @@ git reset file_name
 
 git reset --hard HEAD~1
 
+
+ds
 git add file_name
 
 git branch name_branch
