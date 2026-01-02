@@ -7,15 +7,42 @@ git config --global user.email "your-email@example.com"
 git init
 git remote add origin https://github.com/mr-arzybek/oop-62-2.git
 
+git status                | Состояние проекта
+git add .                 | Выделяет все и копирует в буфер обмена
+git commit -m "lesson1"   | Сохраняет все то что мы скопировали
+git branch                | Показывает наши ветки
+git push orign master     | Отправляет все наши сохранения или коммиты
+
+git restore .             | Сброс всех изменений файла
+git restore file_name     | Сброс всех изменений файла
+
+git reset .
+git reset file_name
+
+git reset --hard HEAD~1
 
 
-git status
-git add .
-git commit -m "lesson1"
-git branch
-git push orign master
+ds
+git add file_name
+
+git branch name_branch
 
 
 
+production
+prod
 
-fseafijeoisfncweuinfcjweinvenwvw
+
+test
+stage
+dev
+
+
+feat/register
+
+
+"feat: register added"
+"update: register updated"
+"fix: register fixed def fsadf"
+"hot-fix: "
+>>>>>>> main
