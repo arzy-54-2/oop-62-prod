@@ -45,4 +45,3 @@ feat/register
 "update: register updated"
 "fix: register fixed def fsadf"
 "hot-fix: "
->>>>>>> main
