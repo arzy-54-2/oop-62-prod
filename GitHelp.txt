@@ -45,4 +45,12 @@ feat/register
 "update: register updated"
 "fix: register fixed def fsadf"
 "hot-fix: "
->>>>>>> main
+
+
+.venv\Scripts\activate
+                                - Активация виртуальной среды
+source venv/bin/activate
+
+py -m venv name_venv
+python -m venv name_venv
+python3 -m venv name_venv
